@@ -11,3 +11,5 @@
 05， The application areas of deep learning
 
 06， Feedforward Neural Network (FNN)
+
+07， Convolutional Neural Networks (CNN)
