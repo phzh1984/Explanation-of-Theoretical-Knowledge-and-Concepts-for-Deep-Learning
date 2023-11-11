@@ -9,3 +9,5 @@
 04， Applicable Scenarios for Machine Learning Algorithms- Deep learning
 
 05， The application areas of deep learning
+
+06， Feedforward Neural Network (FNN)
