@@ -6,4 +6,6 @@
 
 03， Deep Learning Algorithms
 
-04，Applicable Scenarios for Machine Learning Algorithms- Deep learning
+04， Applicable Scenarios for Machine Learning Algorithms- Deep learning
+
+05， The application areas of deep learning
