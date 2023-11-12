@@ -13,3 +13,5 @@
 06， Feedforward Neural Network (FNN)
 
 07， Convolutional Neural Networks (CNN)
+
+08， Recurrent Neural Networks (RNN)
