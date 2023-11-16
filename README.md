@@ -15,3 +15,5 @@
 07， Convolutional Neural Networks (CNN)
 
 08， Recurrent Neural Networks (RNN)
+
+09， Long Short-Term Memory (LSTM)
