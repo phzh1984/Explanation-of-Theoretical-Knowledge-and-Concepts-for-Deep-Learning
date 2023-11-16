@@ -19,3 +19,5 @@
 09， Long Short-Term Memory (LSTM)
 
 10， Generative Adversarial Networks （GAN）
+
+11， Autoencoder
