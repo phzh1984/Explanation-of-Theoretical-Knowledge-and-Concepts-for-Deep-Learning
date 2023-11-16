@@ -24,5 +24,5 @@
 
 12， Reinforcement Learning (RL) 
 
-13,  Attention Mechanism
+13,   Attention Mechanism
 
