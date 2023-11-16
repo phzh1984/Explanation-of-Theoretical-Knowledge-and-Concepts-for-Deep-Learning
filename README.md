@@ -21,3 +21,5 @@
 10， Generative Adversarial Networks （GAN）
 
 11， Autoencoder
+
+12， Reinforcement Learning (RL) 
