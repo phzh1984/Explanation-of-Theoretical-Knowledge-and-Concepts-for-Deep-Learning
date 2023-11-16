@@ -17,3 +17,5 @@
 08， Recurrent Neural Networks (RNN)
 
 09， Long Short-Term Memory (LSTM)
+
+10， Generative Adversarial Networks （GAN）
