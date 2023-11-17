@@ -28,3 +28,5 @@
 
 14， Graph Neural Networks (GNN)
 
+15， Sequence-to-Sequence (Seq2Seq) models
+
